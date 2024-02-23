@@ -1,1 +1,2 @@
-Small website regarding animal facts. Showcases navigational bar at the top.
+Small website regarding animal facts. 
+Showcases navigational bar at the top.
